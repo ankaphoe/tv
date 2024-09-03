@@ -1,0 +1,10 @@
+{
+    "apiUrl": "https://ankatv.duckdns.org/appMainGetData.php",
+    "updateConfig": {
+        "updateVersiyon": "1.1.7",
+        "updateTitle": "Şimdi Güncelleme Zamanı!",
+        "updateYenilik": "deneme",
+        "updateLink": "deneme"
+    },
+     "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
+}
